@@ -20,6 +20,12 @@ Reference: M. Sajid, Rahul Sharma, Iman Beheshti, and M. Tanveer “Decoding Cog
 }
 ```
 
+
+![widm1546-toc-0001-m](https://github.com/user-attachments/assets/06e02558-f0a5-4754-9f48-8b15224a8da3)
+
+Introduction of SMC: Memory is a fundamental cognitive function essential for daily activities and deeply intertwined with our identities. As the global population ages, there is growing concern about age-related cognitive decline, particularly significant memory concern (SMC). SMC, or subjective cognitive decline (SCD), is a self-perceived decline in cognitive abilities without objective evidence of impairment. It is a common complaint among older individuals and may reflect an internal recognition of functional loss that has been compensated for. Recent research suggests that SCD may be an early indicator of more severe cognitive decline, including mild cognitive impairment (MCI) or dementia (Rabin et al., 2017). In other words, SMC refers to subjective complaints of memory impairment that are evident to individuals or their close associates but may not meet the criteria for clinical diagnosis of MCI or dementia (Jessen et al., 2020). As Alzheimer's disease (AD) pathology develops in the brain over several years before the beginning of MCI, those with SMCs may experience a distinct type of memory impairment that is distinct from the normal aging process, even before the onset of MCI (Gauthier et al., 2006). In addition, during the earliest stages of AD, increased neuronal activity, possibly driven by SMCs, may lead to normal performance on cognitive tests. Evidence indicates that indicators of SMC can be beneficial for forecasting cognitive deterioration in the elderly (Risacher et al., 2015).
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ## Authors
 ----------
