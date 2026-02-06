@@ -7,6 +7,7 @@ Reference: M. Sajid, Rahul Sharma, Iman Beheshti, and M. Tanveer “Decoding Cog
 
 ## BibTex
 ----------
+```
 @article{sajid2024decoding,
   title={Decoding cognitive health using machine learning: A comprehensive evaluation for diagnosis of significant memory concern},
   author={Sajid, M and Sharma, Rahul and Beheshti, Iman and Tanveer, Muhammad and Alzheimer's Disease Neuroimaging Initiative},
@@ -17,6 +18,7 @@ Reference: M. Sajid, Rahul Sharma, Iman Beheshti, and M. Tanveer “Decoding Cog
   year={2024},
   publisher={Wiley Online Library}
 }
+```
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ## Authors
